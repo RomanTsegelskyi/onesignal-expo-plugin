@@ -185,7 +185,7 @@ const withOneSignalXcodeProject: ConfigPlugin<OneSignalPluginProps> = (config, p
 
     // Add build phases to the new target
     xcodeProject.addBuildPhase(
-      ["NotificationService.m"],
+      ["NotificationService.swift"],
       "PBXSourcesBuildPhase",
       "Sources",
       nseTarget.uuid
