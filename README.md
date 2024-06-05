@@ -1,3 +1,8 @@
+<h1> hacks </h1>
+To circumvent build issue, build folder has been added to the repo and build step has been commended out.
+To rebuild the package, run `build:local`
+
+
 <h1 align="center">Welcome to the onesignal-expo-plugin 👋</h1>
 <p>
   <a href="https://www.npmjs.com/package/onesignal-expo-plugin" target="_blank">
